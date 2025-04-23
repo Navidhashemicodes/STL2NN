@@ -1,0 +1,13 @@
+.idea/
+__pycache__/
+*.pth
+*.torch
+*__pycache__*
+*.pyc
+*.jpg
+*.mat
+*.eps
+*.png
+*.fig
+*.pt
+formulas/__pycache__/*
